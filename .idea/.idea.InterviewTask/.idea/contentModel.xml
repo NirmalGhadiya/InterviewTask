@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\menir\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\menir\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_InterviewTask.2081992573.00" t="ExcludeRecursive" />
+    <e p="E:\Freelancing\InterviewTask\InterviewTask" t="IncludeRecursive">
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Main Game" t="Include">
+          <e p="Prefeb" t="Include" />
+          <e p="Scenes" t="Include" />
+          <e p="Script" t="Include">
+            <e p="Card.cs" t="Include" />
+            <e p="CardController.cs" t="Include" />
+            <e p="Manager" t="Include">
+              <e p="EventManager.cs" t="Include" />
+              <e p="SoundManager.cs" t="Include" />
+              <e p="UIManager.cs" t="Include" />
+            </e>
+            <e p="UI" t="Include">
+              <e p="BasePage.cs" t="Include" />
+              <e p="GameOverPage.cs" t="Include" />
+              <e p="GameplayPage.cs" t="Include" />
+              <e p="HomePage.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Sound" t="Include" />
+          <e p="Sprite" t="Include">
+            <e p="Food" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="PrimeTween" t="Include">
+            <e p="Demo" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Animatable.cs" t="Include" />
+                <e p="Baggage.cs" t="Include" />
+                <e p="CameraController.cs" t="Include" />
+                <e p="CameraProjectionMatrixAnimation.cs" t="Include" />
+                <e p="Demo.cs" t="Include" />
+                <e p="DirectionalLightController.cs" t="Include" />
+                <e p="Door.cs" t="Include" />
+                <e p="Headlights.cs" t="Include" />
+                <e p="HighlightableElement.cs" t="Include" />
+                <e p="HighlightedElementController.cs" t="Include" />
+                <e p="InputController.cs" t="Include" />
+                <e p="JumpAnimation.cs" t="Include" />
+                <e p="MeasureAllocations" t="Include">
+                  <e p="DebugInfo.cs" t="Include" />
+                  <e p="MeasureMemoryAllocations.cs" t="Include" />
+                  <e p="PrimeTween.Debug.asmdef" t="Include" />
+                </e>
+                <e p="PrimeTween.Demo.asmdef" t="Include" />
+                <e p="Road.cs" t="Include" />
+                <e p="SlidingDoor.cs" t="Include" />
+                <e p="SqueezeAnimation.cs" t="Include" />
+                <e p="SwipeTutorial.cs" t="Include" />
+                <e p="TypewriterAnimatorExample.cs" t="Include" />
+                <e p="Wheels.cs" t="Include" />
+              </e>
+              <e p="Stylized Cartoon Van by Fero Andezo" t="Include">
+                <e p="CREDITS.txt" t="Include" />
+                <e p="Materials" t="Include" />
+                <e p="Materials_URP" t="Include" />
+              </e>
+              <e p="Stylized Sand by Joao Paulo" t="Include">
+                <e p="CREDITS.txt" t="Include" />
+              </e>
+            </e>
+            <e p="internal" t="Include">
+              <e p="PrimeTween.Installer.asmdef" t="Include" />
+              <e p="PrimeTweenInstaller.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="InterviewTask.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PrimeTween.Debug.csproj" t="IncludeRecursive" />
+      <e p="PrimeTween.Demo.csproj" t="IncludeRecursive" />
+      <e p="PrimeTween.Installer.csproj" t="IncludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

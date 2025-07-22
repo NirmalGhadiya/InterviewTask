@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.kyrylokuzyk.primetween": {
+      "tarball": {
+        "hash": "ab1c59930699",
+        "mtime": 1747560884000,
+        "size": 341794,
+        "localPath": "E:\\Freelancing\\InterviewTask\\InterviewTask\\Assets\\Plugins\\PrimeTween\\internal\\com.kyrylokuzyk.primetween.tgz"
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{b85d9168-bfd7-cbd2-bdf3-9ded864d6019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeTween.Demo", "PrimeTween.Demo.csproj", "{a4f91da9-4b5a-8327-1558-81313474254d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeTween.Debug", "PrimeTween.Debug.csproj", "{b7d52516-469f-1372-b2ea-9f4deb84490a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeTween.Installer", "PrimeTween.Installer.csproj", "{922b0159-f459-c5dd-87e0-999d44bc39c9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{a93c0766-212b-f115-ba37-2a6b78f456aa}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{b85d9168-bfd7-cbd2-bdf3-9ded864d6019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b85d9168-bfd7-cbd2-bdf3-9ded864d6019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a4f91da9-4b5a-8327-1558-81313474254d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a4f91da9-4b5a-8327-1558-81313474254d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b7d52516-469f-1372-b2ea-9f4deb84490a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b7d52516-469f-1372-b2ea-9f4deb84490a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922b0159-f459-c5dd-87e0-999d44bc39c9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922b0159-f459-c5dd-87e0-999d44bc39c9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a93c0766-212b-f115-ba37-2a6b78f456aa}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a93c0766-212b-f115-ba37-2a6b78f456aa}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
